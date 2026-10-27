@@ -1,5 +1,5 @@
-# THE UNSENT CHAMBER
-Send messages that were unsent for long...
+# Project : Cult Connect 
+Anonymus friends group chat platform for teenagers
 
 ---
 
